@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
     <img src="https://skillicons.dev/icons?i=vscode"/></a>
-  </a>
+
 
 
 </p>
