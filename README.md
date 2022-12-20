@@ -1,20 +1,29 @@
 
 
-<div align="center">
+# Minha Atividade
+<div align='center'>
+
   <a href="https://github.com/marcosviniciusjau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosviniciusjau&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
- <br>
- <br>
-  <img align="center" alt="Marcos Vinicius-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=138&color=0d439c">
-  <img align="center" alt="Marcos Vinicius-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Marcos Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcos Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
   
-</div>
  
- ## 
-<div> 
+
+</div>
+
+## 
+
+# Linguagens de Programação
+
+
+<p align='center'>
+  <a href="https://dev.mysql.com/downloads/">
+    <img src="https://skillicons.dev/icons?i=mysql"/></a>
+   
+     <br>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+    <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+    <img src="https://skillicons.dev/icons?i=vscode"/></a>
+  </a>
+</p>
