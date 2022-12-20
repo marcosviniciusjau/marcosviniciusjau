@@ -16,7 +16,7 @@
 # Linguagens de Programação
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,cs,css,html,js,php,dotnet&perline=4" />
+    <img src="https://skillicons.dev/icons?i=,cs,css,html,js,php,dotnet&perline=3" />
 </p>
                                                                                
 # IDEs
