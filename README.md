@@ -16,17 +16,14 @@
 # Linguagens de Programação
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,css,html,js,php,dotnet&perline=4" />
+    <img src="https://skillicons.dev/icons?i=,cs,css,html,js,php,dotnet&perline=4" />
 </p>
                                                                                
 # IDEs
                                                                                
 <p align='center'>
   <a href="https://dev.mysql.com/downloads/">
-    <img src="https://skillicons.dev/icons?i=mysql"/></a>
-  
-
-     <br>
+ <img src="https://skillicons.dev/icons?i=mysql"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
     <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
