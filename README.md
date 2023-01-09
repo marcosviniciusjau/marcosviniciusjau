@@ -1,15 +1,11 @@
 
 
 # Minha Atividade
-<div align='center'>
-
+<div align="center">
   <a href="https://github.com/marcosviniciusjau">
-  <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
-                                                                                                                                <img height="200em"  env variable PAT_1 src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
-                                                                                                                                  
-  
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
 
 ## 
 
