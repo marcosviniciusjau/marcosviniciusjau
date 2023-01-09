@@ -5,9 +5,9 @@
 
   <a href="https://github.com/marcosviniciusjau">
   <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
+                                                                                                                                  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=10&theme=merko&border_radius=10&card_width=500" />
+                                                                                                                                  
   
- 
 
 </div>
 
@@ -16,7 +16,7 @@
 # Linguagens de Programação
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,cs,css,html,js,php,java,dotnet&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
 </p>
                                                                                
 # IDEs
