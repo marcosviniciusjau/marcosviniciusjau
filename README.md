@@ -26,7 +26,10 @@
     <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
     <img src="https://skillicons.dev/icons?i=vscode"/></a>
-
+  <a href="https://www.eclipse.org/downloads/">
+ <img src="https://skillicons.dev/icons?i=eclipse"/></a>
+ <a href="https://www.jetbrains.com/pycharm/download/#section=windows">
+ <img src="https://skillicons.dev/icons?i=pycharm"/></a>
 
 
 </p>
