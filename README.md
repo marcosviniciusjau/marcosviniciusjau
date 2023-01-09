@@ -29,7 +29,7 @@
   <a href="https://www.eclipse.org/downloads/">
  <img src="https://skillicons.dev/icons?i=eclipse"/></a>
  <a href="https://www.jetbrains.com/pycharm/download/#section=windows">
- <img src="https://skillicons.dev/icons?i=pycharm"/></a>
+ <img src="https://skillicons.dev/icons?i=jetbrainspycharm"/></a>
 
 
 </p>
