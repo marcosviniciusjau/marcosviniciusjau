@@ -25,6 +25,8 @@
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
     <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
     <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+   <a href="https://www.adobe.com/br/products/photoshop.html"/>
+    <img src="https://skillicons.dev/icons?i=ps"/></a>
     <img src="https://skillicons.dev/icons?i=vscode"/></a>
   <a href="https://www.eclipse.org/downloads/">
  <img src="https://skillicons.dev/icons?i=eclipse"/></a>
