@@ -13,6 +13,7 @@
 ### - I'm study Computing Science at Estácio
 
 ## Minha Atividade
+
 <div align="center">
   <a href="https://github.com/marcosviniciusjau">
     <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
