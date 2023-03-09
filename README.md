@@ -1,4 +1,4 @@
-#Sobre mim
+# Sobre mim
 ### - Tenho 18 anos e moro em Jaú-SP
 ### - Me destaco nas linguagens de C#,PHP,HTML e MySQL
 ### - Aprendi por conta própria o Java, Javascript, Python, Excel e Photoshop
