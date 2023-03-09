@@ -4,12 +4,12 @@
 ### - Aprendi por conta própria o Java, Javascript, Python, Excel e Photoshop
 ### - Estudo Ciência da Computação na Estácio
 
-#English
+# English
 
 # About me
 ### - I'm 18 and i live in Jaú-SP, Brazil
 ### - I'm good at languages of C#,PHP,HTML e MySQL
-### - I learned for my own Java, Javascript, Python, Excel e Photoshop
+### - I learned on it's own Java, Javascript, Python, Excel e Photoshop
 ### - I'm study Computing Science at Estácio
 
 ## Minha Atividade
