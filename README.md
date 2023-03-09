@@ -4,7 +4,7 @@
 ### - Aprendi por conta própria o Java, Javascript, Python, Excel e Photoshop
 ### - Estudo Ciência da Computação na Estácio
 
-##English
+#English
 
 #About me
 ###- I'm 18 and i live in Jaú-SP, Brazil
