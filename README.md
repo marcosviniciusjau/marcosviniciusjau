@@ -4,7 +4,7 @@
 ### - Aprendi por conta própria o Java, Javascript, Python, Excel e Photoshop
 ### - Estudo Ciência da Computação na Estácio
 
-Minha Atividade
+## Minha Atividade
 <div align="center">
   <a href="https://github.com/marcosviniciusjau">
     <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
