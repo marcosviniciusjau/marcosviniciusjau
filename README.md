@@ -22,7 +22,7 @@
 
 ## 
 
-# Linguagens de Programação
+## Programming Languages
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet&perline=4" />
