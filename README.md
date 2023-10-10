@@ -25,7 +25,7 @@
 ## Programming Languages
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react,reactnative,typescript&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react,typescript&perline=4" />
 </p>
                                                                                
 # IDEs
@@ -39,7 +39,5 @@
    <a href="https://www.adobe.com/br/products/photoshop.html"/>
     <img src="https://skillicons.dev/icons?i=ps"/></a>
     <img src="https://skillicons.dev/icons?i=vscode"/></a>
-  <a href="https://www.eclipse.org/downloads/">
- <img src="https://skillicons.dev/icons?i=eclipse"/></a>
 
 </p>
