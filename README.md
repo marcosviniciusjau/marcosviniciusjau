@@ -25,7 +25,7 @@
 ## Programming Languages
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react,reactnative,typescript&perline=4" />
 </p>
                                                                                
 # IDEs
