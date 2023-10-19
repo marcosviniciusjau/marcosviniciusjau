@@ -1,7 +1,7 @@
-# About me
-### - I'm 18 and i live in Jaú-SP, Brazil
-### - I'm good at languages of C#,PHP,HTML e MySQL
-### - I learned on it's own Java, Javascript, Python, Excel e Photoshop
+# Sobre mim
+### - Tenho 18 anos e ssoude Jaú, São Paulo, Brasil
+### - Sou bom nas linguagens de C#,PHP,HTML, MySQL é Javascript
+### - Estou aprendendo por conta própria as seguintes linguagens: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js e React Native. 
 ### - I'm study Computing Science at Estácio
 
  <p align='end'>
