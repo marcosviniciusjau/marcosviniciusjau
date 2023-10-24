@@ -1,6 +1,6 @@
 # Sobre mim
 ### - Tenho 18 anos e sou de Jaú, São Paulo, Brasil
-### - Sou bom nas linguagens de C#,PHP,HTML, MySQL é Javascript
+### - Sou bom nas linguagens de C#, PHP, HTML, MySQL e Javascript
 ### - Estou aprendendo por conta própria as seguintes linguagens: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js e React Native. 
 ### - Fiz o Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas. Atualmente estudo Ciências da Computação na Estácio de Sá
 
