@@ -1,8 +1,9 @@
 # Sobre mim
-### - Tenho 18 anos e sou de Jaú, São Paulo, Brasil
-### - Sou bom nas linguagens de C#, PHP, HTML, MySQL e Javascript
-### - Estou aprendendo por conta própria as seguintes linguagens: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js e React Native. 
-### - Fiz o Ensino Médio Integrado ao Curso Técnico em Desenvolvimento de Sistemas. Atualmente estudo Ciências da Computação na Estácio de Sá
+# About me
+ ### - I'm 18 years old and from Jaú, São Paulo, Brazil
+ ### - I'm good at C#, PHP, HTML, MySQL and Javascript
+ ### - I am learning the following languages ​​on my own: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js and React Native.
+ ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá
 
  <p align='end'>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcosviniciusjau">
