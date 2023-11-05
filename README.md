@@ -1,6 +1,5 @@
-# Sobre mim
 # About me
- ### - I'm 18 years old and from Jaú, São Paulo, Brazil
+ ### - Hello! My name is Marcos Vinicius. I'm 18 years old and from Jaú, São Paulo, Brazil
  ### - I'm good at C#, PHP, HTML, MySQL and Javascript
  ### - I am learning the following languages ​​on my own: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js and React Native.
  ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá
