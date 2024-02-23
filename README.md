@@ -3,21 +3,17 @@
  ### - I'm good at C#, PHP, HTML, MySQL and Javascript
  ### - I am learning the following languages ​​on my own: PowerBI, React, Laravel, Typescript, Node.js, Photoshop, Vue, Angular.js and React Native.
  ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá
-
- <p align='end'>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcosviniciusjau">
-   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmarcosviniciusjau&label=Visitors&labelColor=%23697689&countColor=%2361dafb"/>
-  </a>
-</p>
-
+<div align="start">
+<p>Visitors</p>
+ <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
+</div>
 ## My Activity
 
-<div align="center">
-  <a href="https://github.com/marcosviniciusjau">
-    <img height="200em" src=https://github-readme-streak-stats.herokuapp.com?user=marcosviniciusjau&theme=merko&border_radius=10&"/> <br>
-<br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<kbd align="center">
+ <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=marcosviniciusjau&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
+</kbd>
+
   
 
 ## 
