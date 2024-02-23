@@ -7,6 +7,7 @@
 <p>Visitors</p>
  <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
 </div>
+
 ## My Activity
 
 <kbd align="center">
@@ -14,10 +15,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
 </kbd>
 
-  
-
 ## 
-
 ## Programming Languages
 
 <p align="center">
