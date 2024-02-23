@@ -5,7 +5,7 @@
  ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá
 <div align="start">
 <p>Visitors</p>
- <img align="center" src="https://profile-counter.glitch.me/{maathzzz}/count.svg" />
+ <img align="center" src="https://profile-counter.glitch.me/{marcosvinciusjau}/count.svg" />
 </div>
 
 ## My Activity
