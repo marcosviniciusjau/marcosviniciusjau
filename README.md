@@ -10,6 +10,10 @@
 
 ## My Activity
 
+## Here is my portifolio with my projects:
+
+https://marcosviniciusjau.github.io/mvaraujowebsites/
+
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=marcosviniciusjau&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusjau&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
@@ -19,7 +23,7 @@
 ## Programming Languages
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react,typescript&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,php,py,java,dotnet,react,typescript,nodejs,next,tailwind&perline=4" />
 </p>
                                                                                
 # IDEs
