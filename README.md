@@ -1,8 +1,8 @@
 # About me
- ### - Hello! My name is Marcos Vinicius. I'm 19 years old and from Jaú, São Paulo, Brazil
+ ### - Hello! My name is Marcos Vinicius. I'm 20 years old and from Jaú, São Paulo, Brazil
  ### - I'm good at C#, PHP, HTML, MySQL and Javascript
- ### - I am learning the following languages ​​on my own: Postgres, React, React Native, Python, Go on Rocketseat.
- ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá
+ ### - I learned the following languages ​​on my own: Postgres, React, React Native, Next.js, Python, Laravel, Mongo Db Go on Rocketseat.
+ ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá since 2023
  
 <div align="start">
 <p>Visitors</p>
@@ -13,7 +13,7 @@
 
 ## Here is my portfolio with my projects where I had put my knowledge in practice:
 
-https://marcosviniciusjau.github.io/mvaraujowebsites/
+https://www.mvaraujowebsites.com.br/
 
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=marcosviniciusjau&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
