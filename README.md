@@ -13,7 +13,7 @@
 
 ## Here is my portfolio with my projects where I had put my knowledge in practice:
 
-https://www.mvaraujowebsites.com.br/
+https://mvaraujowebsites.com.br
 
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=marcosviniciusjau&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
