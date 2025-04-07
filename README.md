@@ -6,7 +6,6 @@
  
 <div align="start">
 <p>Visitors</p>
- <img align="center" src="https://profile-counter.glitch.me/{marcosvinciusjau}/count.svg" />
 </div>
 
 ## My Activity
