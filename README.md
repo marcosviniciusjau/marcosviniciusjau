@@ -1,9 +1,10 @@
 # About me
  ### - Hello! My name is Marcos Vinicius. I'm 20 years old and from Jaú, São Paulo, Brazil
- ### - I'm good at C#, PHP, HTML, MySQL and Javascript
+ ### - I'm good at C#, PHP, HTML, MySQL, React Native, Typescript, PostgreSQL and Javascript
  ### - I learned the following languages ​​on my own: Postgres, React, React Native, Next.js, Python, Laravel, Mongo Db Go on Rocketseat.
  ### - I completed high school integrated with the Technical Course in Systems Development.  I currently study Computer Science at Estácio de Sá since 2023
- ### - I'm working at Simple PM with .NET
+ ### - I'm worked at Simple PM with React Native, .NET, C#, Entity Framework, Angular, TypeScript, SQL Server, PostgreSQL, RabbitMQ, Azure, Docker e Sentry.
+ 
 <div align="start">
 <p>Visitors</p>
  <img align="center" src="https://profile-counter.glitch.me/{marcosvinciusjau}/count.svg" />
